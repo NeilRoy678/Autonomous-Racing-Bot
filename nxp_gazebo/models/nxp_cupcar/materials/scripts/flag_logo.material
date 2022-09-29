@@ -1,0 +1,14 @@
+material Logo/FLAG
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture flag_logo.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}

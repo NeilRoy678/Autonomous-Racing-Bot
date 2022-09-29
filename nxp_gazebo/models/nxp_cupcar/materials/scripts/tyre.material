@@ -1,0 +1,14 @@
+material Logo/TYRE
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tyre6.png
+                scale 2.0 2.0
+            }
+        }
+    }
+}
